@@ -1,0 +1,12 @@
+[Core]
+Name = TrioExample
+Module = trio-example
+
+[Documentation]
+Description = An example errbot plugin using python-trio/trio
+
+[Python]
+Version >= 3.6.6
+
+[Errbot]
+min = 5.2.0
